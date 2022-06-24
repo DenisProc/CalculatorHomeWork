@@ -29,7 +29,7 @@
             android:inputType="number"
             android:textColor="@color/white"
             android:textSize="15sp"
-            tools:text="ЗДЕСЬ БУДЕТ ОТОБРАЖАТЬСЯ САМО ВЫЧИСЛЕНИЕ" />
+            tools:text="ЗДЕСЬ БУДЕТ ОТОБРАЖАТЬСЯ  ВЫЧИСЛЕНИЕ" />
 
         <TextView
             android:layout_width="match_parent"
